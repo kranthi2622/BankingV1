@@ -1,0 +1,9 @@
+com\banking\utilites\ExtentReporterNG.class
+com\banking\pageobject\Add_Cust_Page.class
+com\banking\testcases\Tc_LoginTest_001.class
+com\banking\testcases\TC_AddCustomerTest_003.class
+com\banking\utilites\XLUtils.class
+com\banking\utilites\ReadConfig.class
+com\banking\testcases\BaseClass.class
+com\banking\pageobject\LoginPage.class
+com\banking\testcases\TC_LoginDDT_002.class

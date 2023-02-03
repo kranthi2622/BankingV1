@@ -1,0 +1,196 @@
+17:22:48.606 [main] INFO  com.banking.testcases.Tc_LoginTest_001 - url is opened 
+17:22:49.108 [main] INFO  com.banking.testcases.Tc_LoginTest_001 - username entered 
+17:22:49.345 [main] INFO  com.banking.testcases.Tc_LoginTest_001 - password entered 
+17:23:01.833 [main] INFO  com.banking.testcases.Tc_LoginTest_001 - clicked on login 
+17:23:01.965 [main] INFO  com.banking.testcases.Tc_LoginTest_001 - test case passed 
+17:31:05.881 [main] INFO  com.banking.testcases.Tc_LoginTest_001 - url is opened 
+17:31:06.311 [main] INFO  com.banking.testcases.Tc_LoginTest_001 - username entered 
+17:31:06.537 [main] INFO  com.banking.testcases.Tc_LoginTest_001 - password entered 
+17:31:17.116 [main] INFO  com.banking.testcases.Tc_LoginTest_001 - clicked on login 
+17:31:17.138 [main] INFO  com.banking.testcases.Tc_LoginTest_001 - test case passed 
+17:31:35.970 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - user name provided
+17:31:36.151 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - password is provided
+17:31:42.393 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - clicked on login btn
+17:31:45.422 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - login passed
+17:31:59.636 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - user name provided
+17:31:59.906 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - password is provided
+17:32:02.113 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - clicked on login btn
+17:32:09.365 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - user name provided
+17:32:09.536 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - password is provided
+17:32:11.004 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - clicked on login btn
+17:32:17.275 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - user name provided
+17:32:17.398 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - password is provided
+17:32:21.019 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - clicked on login btn
+17:32:24.026 [main] INFO  com.banking.testcases.TC_LoginDDT_002 - login passed
+17:32:41.822 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+17:32:41.952 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+17:32:48.461 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+17:32:49.628 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+17:50:13.697 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+17:50:13.923 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+17:50:28.128 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+18:23:55.716 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+18:23:55.909 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+18:24:06.636 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+18:24:52.694 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+18:24:52.864 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+18:24:57.227 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+18:25:05.940 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+18:25:19.444 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - starting validation 
+18:25:19.550 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - testcase is passed  
+18:35:15.374 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+18:35:16.633 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+18:35:24.642 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+18:35:28.245 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+19:20:44.864 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+19:20:45.014 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+19:20:53.097 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+19:24:42.673 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+19:24:43.141 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+19:24:47.558 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+19:25:48.399 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+19:25:48.616 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+19:26:02.165 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+19:34:00.469 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+19:34:00.778 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+19:34:09.087 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+19:34:22.215 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+19:35:30.852 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+19:35:31.339 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+19:35:44.979 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+19:35:56.718 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+19:36:10.082 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - starting validation 
+19:36:10.116 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - testcase is passed  
+19:38:27.389 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+19:38:27.781 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+19:38:52.830 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+19:39:21.478 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+19:40:55.084 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+19:40:55.321 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+19:41:33.882 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+19:41:53.357 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+19:47:35.406 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+19:47:35.822 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+19:47:46.744 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+19:48:06.990 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+19:56:28.915 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+19:56:29.338 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+19:56:34.133 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+19:56:40.409 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+19:58:39.247 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+19:58:39.468 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+19:58:47.310 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+19:58:51.413 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+11:37:37.331 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+11:37:38.757 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+11:37:45.850 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+11:53:36.633 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+11:53:37.138 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+11:53:48.906 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+12:06:58.948 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+12:06:59.172 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+12:07:10.441 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+12:07:15.518 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+12:13:27.048 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+12:13:27.209 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+12:13:37.116 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+12:16:48.829 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+12:16:49.038 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+12:16:54.716 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+12:20:50.882 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+12:20:51.646 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+12:20:57.276 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+12:24:28.173 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+12:24:28.413 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+12:24:41.415 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+12:31:08.159 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+12:31:08.672 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+12:33:02.756 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+12:33:03.156 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+12:33:48.597 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+16:43:27.616 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+16:43:27.914 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+16:43:59.329 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+16:47:20.851 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+16:47:20.983 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+16:47:33.437 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+18:06:53.858 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+18:06:54.479 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+18:07:03.308 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+18:26:36.522 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+18:26:36.931 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+18:26:50.977 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+18:35:45.573 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+18:35:46.111 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+18:36:18.673 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+18:42:59.142 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+18:42:59.433 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+18:43:12.898 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+14:48:53.947 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+14:48:54.168 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+14:49:08.465 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+14:49:24.151 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+14:51:17.990 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+14:51:18.434 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+14:51:52.665 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+14:52:06.602 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+15:14:09.550 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+15:14:10.016 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+15:14:30.163 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+15:20:00.107 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+15:20:00.432 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+15:20:11.800 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+15:29:23.668 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+15:29:23.931 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+15:29:38.149 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+15:32:40.051 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+15:32:41.356 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+15:32:57.450 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+15:42:37.910 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+15:42:39.825 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+15:42:51.074 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+15:43:03.118 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+15:44:17.862 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+15:44:18.325 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+15:44:25.909 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+15:44:40.746 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+15:44:55.785 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - starting validation 
+16:23:33.455 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+16:23:35.371 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+16:23:44.362 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+16:23:58.735 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+16:32:46.327 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+16:32:46.714 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+16:33:38.330 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+16:37:01.916 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+16:37:02.052 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+16:37:16.983 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+16:37:31.314 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+16:40:05.693 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+16:40:05.864 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+16:40:12.382 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+16:40:29.663 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+16:40:50.859 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - starting validation 
+16:40:50.905 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - test case passed....
+16:43:38.743 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+16:43:39.343 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+16:43:59.036 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+16:44:18.003 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+16:44:49.154 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - starting validation 
+16:44:49.203 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - test case passed....
+16:52:29.203 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+16:52:29.462 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+16:52:40.794 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+16:52:54.911 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+16:53:19.068 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - starting validation 
+16:53:19.080 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - test case passed 
+16:57:45.486 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+16:57:45.670 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+16:57:58.870 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+16:58:18.284 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+17:00:51.778 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - username entered 
+17:00:51.975 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - password entered 
+17:01:03.397 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - clicked submit
+17:01:21.501 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - adding new cust details 
+17:01:39.894 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - starting validation 
+17:01:43.176 [main] INFO  com.banking.testcases.TC_AddCustomerTest_003 - test case passed 
