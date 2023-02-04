@@ -12,10 +12,9 @@
    
    <!--   <class name="com.banking.testcases.Tc_LoginTest_001"/>   -->
   
-     <!--    <class name="com.banking.testcases.TC_LoginDDT_002"/> -->
-    
-    <class name="com.banking.testcases.TC_AddCustomerTest_003"/>  
-  
+   <!--   <class name="com.banking.testcases.TC_LoginDDT_002"/> -->
+   <!--  <class name="com.banking.testcases.TC_AddCustomerTest_003"/>  --> 
+         <class name="com.banking.testcases.Customer_Edit_Test_004"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

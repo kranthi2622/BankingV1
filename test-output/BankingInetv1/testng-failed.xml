@@ -7,14 +7,14 @@
   <test thread-count="5" name="BankingApp Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.banking.testcases.TC_AddCustomerTest_003">
+      <class name="com.banking.testcases.Customer_Edit_Test_004">
         <methods>
           <include name="captureScreen"/>
           <include name="tearDown"/>
+          <include name="editcustomer"/>
           <include name="setup"/>
-          <include name="addNewCustomer"/>
         </methods>
-      </class> <!-- com.banking.testcases.TC_AddCustomerTest_003 -->
+      </class> <!-- com.banking.testcases.Customer_Edit_Test_004 -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [BankingInetv1] -->

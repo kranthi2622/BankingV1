@@ -69,7 +69,7 @@ public class TC_AddCustomerTest_003 extends BaseClass {
 
 		String email = randomestring() + "@gmail.com";
 		addcust.custemail(email);
-		addcust.custpwd("8495891446");
+	//	addcust.custpwd("8495891446");
 		addcust.submitbtn();
 		Thread.sleep(3000);
 		//driver.switchTo().alert().dismiss();
