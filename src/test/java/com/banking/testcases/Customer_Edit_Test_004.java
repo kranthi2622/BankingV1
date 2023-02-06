@@ -1,5 +1,7 @@
 package com.banking.testcases;
 
+import java.io.IOException;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
@@ -11,7 +13,7 @@ public class Customer_Edit_Test_004 extends BaseClass{
 	private static final Logger logger=LogManager.getLogger(Customer_Edit_Test_004.class);
 	
 	@Test
-	public void editcustomer() throws InterruptedException {
+	public void editcustomer() throws InterruptedException, IOException {
 		LoginPage lp = new LoginPage(driver);
 		lp.setUserName(username);
 		logger.info("username entered ");
@@ -43,6 +45,7 @@ public class Customer_Edit_Test_004 extends BaseClass{
 		Thread.sleep(3000);
 		ep.customerTele("8495894462");
 		logger.info("customer telephone changed");
+		captureScreen(driver, "edit Customer");
 		ep.clicksubbtn();
 		Thread.sleep(5000);
 		

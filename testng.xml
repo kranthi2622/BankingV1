@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="BankingInetv1">
+<suite name="BankingInetv1">  <!--   parallel="classes" thread-count="2"> -->
 
 <listeners>
 <listener class-name="com.banking.utilites.ExtentReporterNG"/>
@@ -8,13 +8,17 @@
 
   <test  name="BankingApp Test">
   <parameter name="browser" value="chrome"/>
-   <classes> 
+     
+     <classes> 
    
-   <!--   <class name="com.banking.testcases.Tc_LoginTest_001"/>   -->
-  
-   <!--   <class name="com.banking.testcases.TC_LoginDDT_002"/> -->
-   <!--  <class name="com.banking.testcases.TC_AddCustomerTest_003"/>  --> 
+         <class name="com.banking.testcases.Tc_LoginTest_001"/>   
+         <class name="com.banking.testcases.TC_LoginDDT_002"/> 
+         <class name="com.banking.testcases.TC_AddCustomerTest_003"/> 
          <class name="com.banking.testcases.Customer_Edit_Test_004"/>
+         <class name="com.banking.testcases.Create_NewAccount_Test_005"/> 
+         <class name="com.banking.testcases.Amount_WithDrawal_Test_006"/>
+         
     </classes>
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
